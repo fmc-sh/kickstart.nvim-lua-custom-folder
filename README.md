@@ -21,7 +21,7 @@ Example of `custom/plugin-configs/`, add the name of the file to `custom/plugin/
 [...]
 ```
 
-Example of `custom/plugin-configs/`, add the name of the file to `custom/plugin/init.lua`.
+Example of `custom/plugin-configs/nvim-basic-settings.lua`, add the name of the file to `custom/plugin/init.lua`.
 ```
 return {
   'fmc-sh/nvim-basic-settings',
