@@ -1,5 +1,6 @@
 # My customization for kickstart.nvim
 
+
 The content of .config/nvim/custom, using *kickstart.nvim*.
 
 - No editing in nvim/init.lua (kickstart.nvim), except enable `{ import = 'custom.plugins' },`.
