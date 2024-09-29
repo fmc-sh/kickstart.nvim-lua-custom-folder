@@ -7,5 +7,6 @@ return {
   'nvim-fterm-init',
   'github-copilot',
   'fterm',
+  'auto-session',
   -- Add more plugin configuration files here
 }
