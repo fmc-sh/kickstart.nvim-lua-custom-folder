@@ -2,5 +2,7 @@
 return {
   'treesitter',
   'nvim-basic-settings',
+  'nvim-color-theme',
+  'github-copilot',
   -- Add more plugin configuration files here
 }
