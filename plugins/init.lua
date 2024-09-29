@@ -15,11 +15,7 @@ local function load_plugins()
   local plugins = {}
 
   -- List of configuration files in the plugin-configs directory
-  local configs = {
-    'treesitter',
-    'nvim-basic-settings',
-    -- Add more plugin configuration files here
-  }
+  local configs = require 'custom.enabled-plugins'
 
   -- Require each configuration file and add it to the plugins table
   for _, config in ipairs(configs) do
