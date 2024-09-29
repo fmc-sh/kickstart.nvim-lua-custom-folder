@@ -29,3 +29,15 @@ return {
   end,
 }
 ```
+
+
+## Maybe
+
+- tpope/vim-rsi:
+- folke/trouble.nvim
+- nvimtools/none-ls.nvim
+- pocco81/auto-save.nvim
+- rmagatti/auto-session
+- or mini.session 
+- chrisgrieser/nvim-early-retirement
+- Neogit and Diffview
