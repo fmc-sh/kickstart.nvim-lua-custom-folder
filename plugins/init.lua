@@ -16,6 +16,7 @@ local function load_plugins()
 
   -- List of configuration files in the plugin-configs directory
   local configs = {
+    'treesitter',
     'nvim-basic-settings',
     -- Add more plugin configuration files here
   }
